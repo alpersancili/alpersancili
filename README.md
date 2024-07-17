@@ -1,16 +1,18 @@
-## Hi there 👋
+# My name is Alper. I'm industrial engineering who interested on python and machine learning. 👇
 
-<!--
-**alpersancili/alpersancili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let's Connect!
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alpersancili)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alpersancili/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/alpersancili/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alpersancili)
 
-Here are some ideas to get you started:
+## 🤖 Work Areas
+![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
+![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
+![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
+![DataEngineering](https://img.shields.io/badge/DataEngineering-green?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-purple?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me
+For any inquiries, please email us at: (mailto:alpersancili0@gmail.com)
