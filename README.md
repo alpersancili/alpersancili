@@ -1,4 +1,4 @@
-# My name is Alper. I'm industrial engineering who interested on python and machine learning. 👇
+# My name is Alper. I'm industrial engineering who interested in python and machine learning. 👇
 
 ## Let's Connect!
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alpersancili)
