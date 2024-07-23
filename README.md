@@ -15,4 +15,5 @@
 ![MLOps](https://img.shields.io/badge/MLOps-purple?style=for-the-badge)
 
 ## 📬 Contact Me
-For any inquiries, please email us at: (mailto:alpersancili0@gmail.com)
+## For any inquiries, please email us at: 
+[![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail)](mailto:alpersancili0@gmail.com)
