@@ -1,4 +1,4 @@
-# I'm Alper, an Industrial Engineering graduate with a passion for Python and Machine Learning. Welcome to my GitHub profile where I explore and share my projects in data science and machine learning 👇
+# I'm Alper, an Industrial Engineering graduate with a passion for Python and Machine Learning. Welcome to my GitHub profile where I explore and share my projects in machine learning 👇
 
 ## Let's Connect!
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alpersancili)
