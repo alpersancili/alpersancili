@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alpersancili/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/alpersancili/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alpersancili)
-[![HuggingFace](https://img.shields.io/badge/Kaggle-greem?style=for-the-badge&logo=kaggle)](https://huggingface.co/Alpersx)
+[![HuggingFace](https://img.shields.io/badge/Huggingface-greem?style=for-the-badge&logo=huggingface)](https://huggingface.co/Alpersx)
 
 
 ## 🤖 Work Areas
